@@ -1,0 +1,11 @@
+Package: mondayPackageTest
+Type: Package
+Title: It helps to Count howmuch Drunk
+Version: 0.1.0
+Authors@R: person("Jonathan", "Cleveland", email = "jc2457@columbai.edu", role = c("aut", "cre")
+Maintainer: The package maintain)er <yourself@somewhere.net>
+Description: Gives you the capacity to check how much you have drunk
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
